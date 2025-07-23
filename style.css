@@ -1,0 +1,15 @@
+:root {
+  --matrix-txt: #ff69b4;
+}
+
+body {
+  margin: 0;
+  background-color: black;
+  overflow: hidden;
+}
+
+#loveCanvas {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
