@@ -4,7 +4,7 @@ const ctx = canvas.getContext("2d");
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
-const loveText = "My Love ";
+const loveText = "Love ";
 const fontSize = 16;
 const columns = canvas.width / fontSize;
 
